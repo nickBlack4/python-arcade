@@ -1,8 +1,10 @@
+# Library imports
 import arcade
 
+# Constants
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Starting Template"
+SCREEN_TITLE = "starting template"
 
 
 class MyGame(arcade.Window):
